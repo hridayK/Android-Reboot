@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">recyclerViewPrac</string>
+    <string-array name="names">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+    </string-array>
+    <string-array name="description">
+        <item>desc.........</item>
+        <item>desc.........</item>
+        <item>desc.........</item>
+        <item>desc.........</item>
+        <item>desc.........</item>
+        <item>desc.........</item>
+    </string-array>
+</resources>
